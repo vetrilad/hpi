@@ -1,0 +1,4 @@
+node_modules/
+UK-HPI-full-file-2016-05.csv
+*.db
+public/js/bundle.js
